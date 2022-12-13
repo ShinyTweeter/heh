@@ -1,0 +1,25 @@
+body 
+{
+    background-image: linear-gradient(cornflowerblue 0%, deeppink 100%); 
+}
+
+#score
+{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+#timer
+{
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 20px;
+    float: right;
+}
+
+#sketch_drawn
+{
+    color: darkgreen;
+    font-weight: bold;
+}
